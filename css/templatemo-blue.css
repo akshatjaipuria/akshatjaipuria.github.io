@@ -67,6 +67,9 @@ h2 {
 .contact, .experience {
   margin-top: 30px;
 }
+.blog {
+  min-height: 0px;
+}
 
 @font-face {
     font-family: 'Proxima';
